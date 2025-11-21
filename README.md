@@ -71,10 +71,9 @@ Interact with visualizations to uncover insights from the loan dataset.
 🖼️ Dashboard Images
 Screenshots of the dashboards are available in the Output folder within this repository.
 
-<img width="1920" height="1200" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/146d28d3-79a2-4288-b0c5-918ce909d5be" />
+<img width="1448" height="820" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/50c88534-2851-42db-9ca1-883717d826e9" />
 
-<img width="1920" height="1200" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/5c6a76f9-5bab-45cd-bd4b-a965065b0eeb" />
+<img width="1465" height="821" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/c2465937-f325-4581-86d2-cb31d6251932" />
 
-<img width="1920" height="1200" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/35bc1037-a2ae-4991-bc9b-93b37a62179e" />
-
+<img width="1441" height="821" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/f6346f47-ed4c-48b2-907d-0deb69c57edc" />
 
