@@ -71,4 +71,10 @@ Interact with visualizations to uncover insights from the loan dataset.
 🖼️ Dashboard Images
 Screenshots of the dashboards are available in the Output folder within this repository.
 
-Would you like me to help you write a short project description for LinkedIn or your portfolio as well? It could help you showcase this work to recruiters and hiring managers.
+<img width="1920" height="1200" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/146d28d3-79a2-4288-b0c5-918ce909d5be" />
+
+<img width="1920" height="1200" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/5c6a76f9-5bab-45cd-bd4b-a965065b0eeb" />
+
+<img width="1920" height="1200" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/35bc1037-a2ae-4991-bc9b-93b37a62179e" />
+
+
