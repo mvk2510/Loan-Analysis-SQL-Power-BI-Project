@@ -62,7 +62,7 @@ This Power BI solution empowers users to:
 🚀 Getting Started
 To explore the dashboards:
 - Clone the Repository
-git clone https://github.com/vinayak200227/Bank-Loan-Analysis-using-PowerBI.git
+git clone https://github.com/mvk2510/Loan-Analysis-SQL-Power-BI-Project
 - Open the Project
 Launch the .pbix file using Power BI Desktop.
 - Explore the Dashboards
