@@ -1,8 +1,8 @@
-# Loan-Analysis-SQL-Power-BI-Project
+### Loan-Analysis-SQL-Power-BI-Project
 Loan Analysis – SQL & Power BI Project
 A focused analysis of loan applicant data using SQL and Power BI to understand approval patterns and customer risk.
 
-# 1. Problem Definition & Objective
+### 1. Problem Definition & Objective
 The project aimed to identify key factors affecting loan approval and default risk.
 This helps improve credit decisions and reduce financial losses.
 Objectives:
@@ -10,7 +10,7 @@ Objectives:
 - Identify high‑risk customer groups
 - Assess impact of income, credit history, and demographics
 
-# 2. Data Collection & Cleaning
+### 2. Data Collection & Cleaning
 Source: Public loan dataset
 Data Type: Customer demographics, income, loan details, credit history
 Cleaning Steps:
@@ -20,7 +20,7 @@ Cleaning Steps:
 - Created basic derived metrics
 Tools: SQL, Power BI
 
-# 3. Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 Key Variables: Income, loan amount, credit history, employment, property area
 Insights:
 - Credit history strongly influences approval
@@ -33,21 +33,21 @@ Visuals:
 - Demographic approval trends
 - Risk segmentation dashboard
 
-# 4. Stakeholder Collaboration & Communication
+### 4. Stakeholder Collaboration & Communication
 Stakeholders: Credit Risk, Underwriting, Strategy, Management
 Communication:
 - Power BI dashboard
 - Short insights summary
 - Clear explanations for non‑technical teams
 
-# 5. Analytical Methods & Tools Used
+### 5. Analytical Methods & Tools Used
 Methods: Descriptive stats, segmentation, correlation
 Tools: SQL, Power BI
 Why:
 - SQL for efficient data handling
 - Power BI for interactive insights
 
-# 6. Time & Resource Management
+### 6. Time & Resource Management
 Duration: 1–2 weeks
 Constraints: Missing values, inconsistent categories
 Workflow:
